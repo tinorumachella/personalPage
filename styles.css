@@ -1,0 +1,31 @@
+svg {
+	height: auto;
+	width: 50%;
+}
+
+
+circle {
+	fill: none;
+	stroke: #008b6f;
+	stroke-width: 7px;
+}
+
+line {
+	stroke: black;
+	stroke-width: 5px;
+}
+
+text {
+	font-size: 60px;
+	text-anchor: middle;
+	font-family: 'Bungee', cursive;
+	stroke: #000;
+	stroke-width: 3px;
+	fill: red;
+}
+
+polygon {
+	fill: #008b6f;
+	stroke: black;
+	stroke-width: 2px;
+}
